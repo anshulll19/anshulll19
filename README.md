@@ -10,10 +10,31 @@
 <div align="center">
 
 # ANSHUL SINGH
-**Software Engineer • AI & Computer Vision • Backend Engineering • Open Source**
 
-> Building intelligent software systems at the intersection of AI, backend engineering, and football analytics.
+<a href="https://github.com/anshulll19">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&weight=500&size=16&pause=2000&color=8B949E&center=true&vCenter=true&width=500&lines=Backend+Engineering;Computer+Vision+%2B+AI;Open+Source;Distributed+Systems" alt="Typing SVG" />
+</a>
 
+<p>
+  Building intelligent software systems at the intersection of AI, backend engineering, and football analytics.
+</p>
+
+<p align="center">
+  <a href="#">
+    <img src="https://img.shields.io/badge/Resume-121212?style=flat-square&logo=read-the-docs&logoColor=white" alt="Resume" />
+  </a>&nbsp;&nbsp;
+  <a href="#">
+    <img src="https://img.shields.io/badge/Portfolio-121212?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/anshulll19">
+    <img src="https://img.shields.io/badge/LinkedIn-121212?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>&nbsp;&nbsp;
+  <a href="mailto:anshulsingh1907@gmail.com">
+    <img src="https://img.shields.io/badge/Email-121212?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+<br>
 </div>
 
 ## 👨💻 About Me
